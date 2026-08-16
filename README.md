@@ -30,16 +30,16 @@ Além de ser um tema pessoal com o qual tenho bastante familiaridade, escolhi o 
         - Ferramentas de IA — apoio na ideação, estruturação, desenvolvimento e criação das representações visuais dos produtos.
         - Ferramentas de geração de imagens — criação das imagens fictícias das embalagens e produtos da CURLY.
 
-       3.4 Uso de IA: Utilizei inteligência artificial como ferramenta de apoio durante diferentes etapas do desenvolvimento, como na definição da identidade visual, estruturação da landing page, desenvolvimento do código e criação das representações visuais dos produtos. Modelos utilizados:
+    3.4 Uso de IA: Utilizei inteligência artificial como ferramenta de apoio durante diferentes etapas do desenvolvimento, como na definição da identidade visual, estruturação da landing page, desenvolvimento do código e criação das representações visuais dos produtos. Modelos utilizados:
             - GPT: foi o principal modelo utilizado durante o projeto. Utilizei a ferramenta para explorar a identidade visual, definir o conceito e o slogan, organizar a linha de produtos, planejar a estrutura da landing page, desenvolver e ajustar o código.
             - Gemini: utilizei como ferramenta complementar para explorar alternativas de estrutura, conteúdo, identidade visual e geração de imagens. A utilização de um segundo modelo me permitiu comparar diferentes sugestões e observar como modelos distintos abordavam os mesmos problemas.
 
-       3.5 Evolução da solução: A solução passou por algumas mudanças até chegar à versão final.
+    3.5 Evolução da solução: A solução passou por algumas mudanças até chegar à versão final.
         Inicialmente, pensei em desenvolver apenas uma linha de produtos para cabelos cacheados. Durante a construção do conceito, percebi que poderia ampliar a proposta criando uma extensão voltada para cabelos cacheados com luzes ou coloração. Assim surgiu a CURLY Blonde.
         A identidade visual também foi ajustada durante o desenvolvimento. A versão final utiliza creme, marrom e verde-sálvia na linha principal, enquanto a CURLY Blonde utiliza azul e dourado suave.
         Também aprimorei a estrutura da landing page, que passou a contar com Hero Section, apresentação da proposta, linha de produtos, benefícios, CURLY Blonde, explicação do ritual, avaliações fictícias, oferta, FAQ, CTA e Footer.
 
-4. Resultado final: O resultado foi uma landing page desenvolvida em React, apresentando a CURLY como uma marca fictícia de haircare. 
+5. Resultado final: O resultado foi uma landing page desenvolvida em React, apresentando a CURLY como uma marca fictícia de haircare. 
 O projeto me permitiu aplicar conceitos de desenvolvimento front-end, organização da interface, estilização com CSS, responsividade e implementação de interações utilizando React.
 A utilização de inteligência artificial durante o processo contribuiu principalmente para acelerar a exploração de ideias, a prototipação e o desenvolvimento. As sugestões apresentadas foram analisadas e adaptadas de acordo com as decisões tomadas ao longo do projeto, permitindo que o resultado final mantivesse uma identidade própria.
 Se tivesse mais tempo para evoluir o projeto, exploraria novas funcionalidades de interação, como uma experiência personalizada para ajudar o usuário a montar sua rotina CURLY. Também poderia aprimorar as animações, a acessibilidade e a experiência em diferentes dispositivos.
